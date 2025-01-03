@@ -1,0 +1,1 @@
+# IMBD-Review-using-Simple-RNN
